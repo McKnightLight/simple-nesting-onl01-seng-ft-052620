@@ -83,6 +83,7 @@ def adding_matz
           :languages => ["LISP", "C"]
      }
 end
+adding_matz
 
 def changing_alan
 	programmer_hash = 
